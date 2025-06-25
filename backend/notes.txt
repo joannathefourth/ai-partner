@@ -1,0 +1,14 @@
+This uses python Fast API 
+
+need to get api key 
+
+
+Step 1 : Set up Backend (python)
+Step 2 : Frontend (React Chat UI)
+Step 3 : Run Everything
+    * Creates the react app
+    * Start the react app 
+        cd Frontend
+        npm start
+        Then browser opends to the http://localhost:3000 with the default React welcome screen 
+Step 4 : Add Memory
